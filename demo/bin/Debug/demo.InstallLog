@@ -1,0 +1,10 @@
+﻿Installing assembly 'C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.InstallLog
+   assemblypath = C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe
+Rolling back assembly 'C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.InstallLog
+   assemblypath = C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe

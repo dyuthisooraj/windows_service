@@ -1,0 +1,10 @@
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.ProjectInstaller.resources
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe.config
+C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.exe
+C:\Users\dsooraj\source\repos\demo\demo\bin\Debug\demo.pdb
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.exe
+C:\Users\dsooraj\source\repos\demo\demo\obj\Debug\demo.pdb
